@@ -20,7 +20,7 @@ This repository contains the code for a Fraud Detection API developed in PHP. Th
 ### Setup Instructions:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/fraud-detection-api.git
+   git clone https://github.com/pra15mesh/ip-fraud-detection-api.git
    ```
 2. Configure `config.php` with your API keys and settings.
 
