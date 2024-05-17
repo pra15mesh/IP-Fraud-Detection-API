@@ -42,3 +42,6 @@ This repository contains the code for a Fraud Detection API developed in PHP. Th
 
 ### License:
 This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+### Note:
+This PHP-based Fraud Detection API was crafted with assistance from ChatGPT-4.
