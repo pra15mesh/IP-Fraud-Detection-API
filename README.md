@@ -1,4 +1,4 @@
-### Repository Title: Fraud Detection API
+### IP Fraud Score Detection API
 
 ### Description:
 This repository contains the code for a Fraud Detection API developed in PHP. The API is designed to assess the risk associated with IP addresses by consolidating data from various sources and providing a risk assessment based on predefined criteria. It includes features such as IP validation, user behavior tracking, and external API integration for risk data retrieval.
